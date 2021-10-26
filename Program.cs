@@ -12,13 +12,9 @@ namespace RayTracer
         {
             //TestImage.RunFirst();
             TestImage.SecondTest();
-            
 
-            
 
-            
 
-            
         }
     }
 }
